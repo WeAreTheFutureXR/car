@@ -1,0 +1,14 @@
+{
+"companyName": "STARCAT",
+"productName": "WEB 3D",
+"dataUrl": "WEB_CAR.data.unityweb",
+"asmCodeUrl": "WEB_CAR.asm.code.unityweb",
+"asmMemoryUrl": "WEB_CAR.asm.memory.unityweb",
+"asmFrameworkUrl": "WEB_CAR.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "WEB_CAR.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF"
+}
